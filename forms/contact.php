@@ -1,5 +1,5 @@
-<?php
-  /**
+
+  <!-- /**
   * Requires the "PHP Email Form" library
   * The "PHP Email Form" library is available only in the pro version of the template
   * The library should be uploaded to: vendor/php-email-form/php-email-form.php
@@ -15,13 +15,13 @@
     die( 'Unable to load the "PHP Email Form" Library!');
   }
 
-  $contact = new PHP_Email_Form;
-  $contact->ajax = true;
+  // $contact = new PHP_Email_Form;
+  // $contact->ajax = true;
   
-  $contact->to = $receiving_email_address;
-  $contact->from_name = $_POST['name'];
-  $contact->from_email = $_POST['email'];
-  $contact->subject = $_POST['subject'];
+  // $contact->to = $receiving_email_address;
+  // $contact->from_name = $_POST['name'];
+  // $contact->from_email = $_POST['email'];
+  // $contact->subject = $_POST['subject'];
 
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
   /*
@@ -33,9 +33,27 @@
   );
   */
 
-  $contact->add_message( $_POST['name'], 'From');
-  $contact->add_message( $_POST['email'], 'Email');
-  $contact->add_message( $_POST['message'], 'Message', 10);
+  // $contact->add_message( $_POST['name'], 'From');
+  // $contact->add_message( $_POST['email'], 'Email');
+  // $contact->add_message( $_POST['message'], 'Message', 10);
 
-  echo $contact->send();
+  // echo $contact->send(); -->
+
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $name = $_POST["name"];
+    $email = $_POST["email"];
+    $message = $_POST["message"];
+    $to = "info@statcon.ae"; // replace with your email address
+    $subject = $_POST["subject"];
+    $body = "Name: $name\nEmail: $email\n\n$message";
+    
+    if (mail($to, $subject, $body)) {
+      
+        echo "Thank you for your message!";
+    } else {
+        echo "Oops! An error occurred.";
+    }
+}
 ?>
+
