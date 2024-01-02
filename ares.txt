@@ -1,0 +1,547 @@
+"Data": [
+        {
+            "Id": 3125,
+            "Name_AR": "3125 - الذيد / تجارية",
+            "Name_EN": "3125 - Al Dhaid / Commercial Zone"
+        },
+        {
+            "Id": 3550,
+            "Name_AR": "3550 - الثمامه /الذيد",
+            "Name_EN": "3550 - Al TAMAMA Area/Al Dhaid"
+        },
+        {
+            "Id": 4002,
+            "Name_AR": "4002 - الذيد - قديمة",
+            "Name_EN": "4002 - Al Dhaid - Old Area"
+        },
+        {
+            "Id": 4003,
+            "Name_AR": "4003 - بحائص/المدام",
+            "Name_EN": "4003 - Behaes/Al Madam"
+        },
+        {
+            "Id": 4005,
+            "Name_AR": "4005 - المدام",
+            "Name_EN": "4005 - Al Madam"
+        },
+        {
+            "Id": 4006,
+            "Name_AR": "4006 - كدرة/وشاح",
+            "Name_EN": "4006 - Kadra/Weshah"
+        },
+        {
+            "Id": 4009,
+            "Name_AR": "4009 - خضيره/وشاح",
+            "Name_EN": "4009 - Khudairah/Weshah"
+        },
+        {
+            "Id": 4010,
+            "Name_AR": "4010 - حي وشاح / الذيد",
+            "Name_EN": "4010 - Weshah Area / Al Dhaid"
+        },
+        {
+            "Id": 4011,
+            "Name_AR": "4011 - الخوالد/فلي",
+            "Name_EN": "4011 - Al Khawalid/Fili"
+        },
+        {
+            "Id": 4012,
+            "Name_AR": "4012 - الثقيبة/المدام",
+            "Name_EN": "4012 - Al Thuqaibah/Al Madam"
+        },
+        {
+            "Id": 4014,
+            "Name_AR": "4014 - طوي راشد/المدام",
+            "Name_EN": "4014 - Tuwi Rashid/Al Madam"
+        },
+        {
+            "Id": 4016,
+            "Name_AR": "4016 - طويلع/المدام",
+            "Name_EN": "4016 - Tuweila/Al Madam"
+        },
+        {
+            "Id": 4017,
+            "Name_AR": "4017 - الغريفة/المدام",
+            "Name_EN": "4017 - Al Ghareefa/Al Madam"
+        },
+        {
+            "Id": 4018,
+            "Name_AR": "4018 - فلي/ فلي",
+            "Name_EN": "4018 - Fili / Fili"
+        },
+        {
+            "Id": 4020,
+            "Name_AR": "4020 - سهيلة/الذيد",
+            "Name_EN": "4020 - Suhaila/Al Dhaid"
+        },
+        {
+            "Id": 4021,
+            "Name_AR": "4021 - طوي سيف/المدام",
+            "Name_EN": "4021 - Tuwi Seif/Al Madam"
+        },
+        {
+            "Id": 4022,
+            "Name_AR": "4022 - المعاشي(ام الصفاة)/المدام",
+            "Name_EN": "4022 - Al Maashi (Umm Al Safah)/Al Madam"
+        },
+        {
+            "Id": 4023,
+            "Name_AR": "4023 - الند/المدام",
+            "Name_EN": "4023 - Al Ned/Al Madam"
+        },
+        {
+            "Id": 4024,
+            "Name_AR": "4024 - رفادة/المدام",
+            "Name_EN": "4024 - Refada/Al Madam"
+        },
+        {
+            "Id": 4027,
+            "Name_AR": "4027 - شعبية الخواطر / الذيد",
+            "Name_EN": "4027 - Al Khawatir Shabia / Al Dhaid"
+        },
+        {
+            "Id": 4032,
+            "Name_AR": "4032 - اليدية/المدام",
+            "Name_EN": "4032 - Al Yediya/Al Madam"
+        },
+        {
+            "Id": 4034,
+            "Name_AR": "4034 - المدام- شعبية",
+            "Name_EN": "4034 - Al Madam - Shabia "
+        },
+        {
+            "Id": 4039,
+            "Name_AR": "4039 - البداير(دوار الغريف/تجاري)/المدام",
+            "Name_EN": "4039 - Al Badayer (Al Ghareef R/A Commercial Area)/Al Mad"
+        },
+        {
+            "Id": 4040,
+            "Name_AR": "4040 - حي السويح /الذيد",
+            "Name_EN": "4040 - Al Suwaih Area/Al Dhaid"
+        },
+        {
+            "Id": 4041,
+            "Name_AR": "4041 - حي جبل عمر/الذيد",
+            "Name_EN": "4041 - Jabal Omar/Al Dhaid"
+        },
+        {
+            "Id": 4042,
+            "Name_AR": "4042 - حي تل الزعفران/الذيد",
+            "Name_EN": "4042 - Tal Al Za'afran/Al Dhaid"
+        },
+        {
+            "Id": 4043,
+            "Name_AR": "4043 - حي البستان/الذيد",
+            "Name_EN": "4043 - Al Bustan/Sharjah"
+        },
+        {
+            "Id": 4044,
+            "Name_AR": "4044 - شعبية بن حماد القديم/الذيد",
+            "Name_EN": "4044 - Shabiat Bin Hammad (Old)/Al Dhaid"
+        },
+        {
+            "Id": 4045,
+            "Name_AR": "4045 - شعبية بن حماد الجديد/الذيد",
+            "Name_EN": "4045 - Shabiat Bin Hammad (New)/Al Dhaid"
+        },
+        {
+            "Id": 4046,
+            "Name_AR": "4046 - حي الحصن/الذيد",
+            "Name_EN": "4046 - Al Hisn/Al Dhaid"
+        },
+        {
+            "Id": 4047,
+            "Name_AR": "4047 - شعبية بن سليم/المدام",
+            "Name_EN": "4047 - Shabiat Bin Saleem/Al Madam"
+        },
+        {
+            "Id": 4049,
+            "Name_AR": "4049 - الثميد/فلي",
+            "Name_EN": "4049 - Al Thameed/Fili"
+        },
+        {
+            "Id": 4051,
+            "Name_AR": "4051 - حي الزبيده/الذيد",
+            "Name_EN": "4051 - Al Zubaidah/Al Dhaid"
+        },
+        {
+            "Id": 4052,
+            "Name_AR": "4052 - الفاو زراعية/المدام",
+            "Name_EN": "4052 - Al Faw Agricultural Area/Al Madam"
+        },
+        {
+            "Id": 4053,
+            "Name_AR": "4053 - حي طيبه/الذيد",
+            "Name_EN": "4053 - Taiba/Al Dhaid"
+        },
+        {
+            "Id": 4054,
+            "Name_AR": "4054 - شعبية بن شراره/المدام",
+            "Name_EN": "4054 - Shabiat Bin Shararah/Al Madam"
+        },
+        {
+            "Id": 4055,
+            "Name_AR": "4055 - شعبية بن هويدن/المدام",
+            "Name_EN": "4055 - Shabiat Bin Huwaiden/Al Madam"
+        },
+        {
+            "Id": 4056,
+            "Name_AR": "4056 - شعبية وشاح جنوبي/وشاح",
+            "Name_EN": "4056 - Shabiat Weshah Western"
+        },
+        {
+            "Id": 4060,
+            "Name_AR": "4060 - الذيد - زراعية",
+            "Name_EN": "4060 - Al Dhaid - Agricultural Area"
+        },
+        {
+            "Id": 4061,
+            "Name_AR": "4061 - فلي - شعبية",
+            "Name_EN": "4061 - Fili - Shabia"
+        },
+        {
+            "Id": 4064,
+            "Name_AR": "4064 - شعبية بن معدن/المدام",
+            "Name_EN": "4064 - Shabiat Bin Maden/Al Madam"
+        },
+        {
+            "Id": 4065,
+            "Name_AR": "4065 - وشــــاح - زراعي/وشاح",
+            "Name_EN": "4065 - Weshah - Agricultral Area/Weshah"
+        },
+        {
+            "Id": 4066,
+            "Name_AR": "4066 - طوي محمد / المدام",
+            "Name_EN": "4066 - Tawi Mohamed / Al Madam"
+        },
+        {
+            "Id": 4067,
+            "Name_AR": "4067 - طوي ميثا/المدام",
+            "Name_EN": "4067 - Tuwi Metha/Al Madam"
+        },
+        {
+            "Id": 4068,
+            "Name_AR": "4068 - شعبية معضد/المدام",
+            "Name_EN": "4068 - Shabiat Muadid/Al Madam"
+        },
+        {
+            "Id": 4069,
+            "Name_AR": "4069 - الذيد - تجـاري",
+            "Name_EN": "4069 - Al Dhaid - Commercial Zone"
+        },
+        {
+            "Id": 4071,
+            "Name_AR": "4071 - طوي فاطمة/المدام",
+            "Name_EN": "4071 - Tuwi Fatima/Al Madam"
+        },
+        {
+            "Id": 4072,
+            "Name_AR": "4072 - فلي زراعية",
+            "Name_EN": "4072 - Fili Agricultural Area "
+        },
+        {
+            "Id": 4887,
+            "Name_AR": "4887 - الذيد-حى الشريعة",
+            "Name_EN": "4887 - Al Dhaid-Al Sharia Area"
+        },
+        {
+            "Id": 5005,
+            "Name_AR": "5005 - العقـيدة/المدام",
+            "Name_EN": "5005 - Al Aqidah/Al Madam"
+        },
+        {
+            "Id": 5006,
+            "Name_AR": "5006 - طوي النبيبيغ/المدام",
+            "Name_EN": "5006 - Tuwi Al Nebibeegh/Al Madam"
+        },
+        {
+            "Id": 5007,
+            "Name_AR": "5007 - الطيبة(اليتيمة)/الذيد",
+            "Name_EN": "5007 - Al Tayyeba (Al Yateema)/Al Dhaid"
+        },
+        {
+            "Id": 5008,
+            "Name_AR": "5008 - الهامة/المدام",
+            "Name_EN": "5008 - Al Hama/Al Madam"
+        },
+        {
+            "Id": 5009,
+            "Name_AR": "5009 - نزوى/المدام",
+            "Name_EN": "5009 - Nazwa/Al Madam"
+        },
+        {
+            "Id": 5012,
+            "Name_AR": "5012 - المدام زراعية /المدام",
+            "Name_EN": "5012 - Al Madam Agricultural Area/Al Madam"
+        },
+        {
+            "Id": 5013,
+            "Name_AR": "5013 - طوي النهدة / المدام",
+            "Name_EN": "5013 - Tuwi Al Nahda / Al Madam"
+        },
+        {
+            "Id": 5033,
+            "Name_AR": "5033 - حي السدرة/وشاح",
+            "Name_EN": "5033 - Al Sidra Area/Weshah"
+        },
+        {
+            "Id": 5034,
+            "Name_AR": "5034 - الفاية/المدام",
+            "Name_EN": "5034 - Al Faya/Al Madam"
+        },
+        {
+            "Id": 5035,
+            "Name_AR": "5035 - وشاح الشرقية/زراعية",
+            "Name_EN": "5035 - Weshah East/Agricultural Area"
+        },
+        {
+            "Id": 5036,
+            "Name_AR": "5036 - الغريف(دوار الغريفً)/المدام",
+            "Name_EN": "5036 - Al Ghareef (Al Ghareef R/A)/Al Madam"
+        },
+        {
+            "Id": 5037,
+            "Name_AR": "5037 - بن دغيش/المدام",
+            "Name_EN": "5037 - Bin Degheesh"
+        },
+        {
+            "Id": 5066,
+            "Name_AR": "5066 - المدام / تجارية",
+            "Name_EN": "5066 - Al Madam / Commercial Zone"
+        },
+        {
+            "Id": 5067,
+            "Name_AR": "5067 - المدام / الصناعية",
+            "Name_EN": "5067 - Al Madam / Industrial Zone"
+        },
+        {
+            "Id": 5078,
+            "Name_AR": "5078 - الذيد - صناعية",
+            "Name_EN": "5078 - Al Dhaid - Industrial Zone"
+        },
+        {
+            "Id": 5080,
+            "Name_AR": "5080 - الكهيف/المدام",
+            "Name_EN": "5080 - "
+        },
+        {
+            "Id": 5096,
+            "Name_AR": "5096 - وشاح 2",
+            "Name_EN": "5096 - "
+        },
+        {
+            "Id": 5098,
+            "Name_AR": "5098 - وشاح 1 / الذيد",
+            "Name_EN": "5098 - WESHAH 1 / Al Dhaid"
+        },
+        {
+            "Id": 5120,
+            "Name_AR": "5120 - المدام / الخوالد",
+            "Name_EN": "5120 - المدام / الخوالد"
+        },
+        {
+            "Id": 5121,
+            "Name_AR": "5121 - الدفين/المدام",
+            "Name_EN": "5121 - Dafeen/Al Madam"
+        },
+        {
+            "Id": 5125,
+            "Name_AR": "5125 - الثقيبة / المدام",
+            "Name_EN": "5125 - "
+        },
+        {
+            "Id": 5127,
+            "Name_AR": "5127 - سهيلة تجارية/الذيد",
+            "Name_EN": "5127 - Suhaila Commercial /Al Dhaid"
+        },
+        {
+            "Id": 5130,
+            "Name_AR": "5130 - المدام / البداير",
+            "Name_EN": "5130 - المدام / البداير"
+        },
+        {
+            "Id": 5183,
+            "Name_AR": "5183 - المدام / الثميد",
+            "Name_EN": "5183 - المدام / الثميد"
+        },
+        {
+            "Id": 5184,
+            "Name_AR": "5184 - فلي الشمالي / المدام",
+            "Name_EN": "5184 - "
+        },
+        {
+            "Id": 5185,
+            "Name_AR": "5185 - فلي الجنوبي / المدام",
+            "Name_EN": "5185 - "
+        },
+        {
+            "Id": 5186,
+            "Name_AR": "5186 - فلي الزراعية / المدام",
+            "Name_EN": "5186 - "
+        },
+        {
+            "Id": 5217,
+            "Name_AR": "5217 - سهيلة 2",
+            "Name_EN": "5217 - "
+        },
+        {
+            "Id": 5256,
+            "Name_AR": "5256 - اليفر / المدام",
+            "Name_EN": "5256 - "
+        },
+        {
+            "Id": 5257,
+            "Name_AR": "5257 - البحائص الشمالية / المدام",
+            "Name_EN": "5257 - "
+        },
+        {
+            "Id": 5258,
+            "Name_AR": "5258 - البحائص الجنوبية / المدام",
+            "Name_EN": "5258 - "
+        },
+        {
+            "Id": 5259,
+            "Name_AR": "5259 - الخوالد / المدام",
+            "Name_EN": "5259 - "
+        },
+        {
+            "Id": 5260,
+            "Name_AR": "5260 - المنطقة الحرة / المدام",
+            "Name_EN": "5260 - "
+        },
+        {
+            "Id": 5261,
+            "Name_AR": "5261 - الحصون / المدام",
+            "Name_EN": "5261 - "
+        },
+        {
+            "Id": 5262,
+            "Name_AR": "5262 - سيح الغريف / المدام",
+            "Name_EN": "5262 - "
+        },
+        {
+            "Id": 5263,
+            "Name_AR": "5263 - البطين / المدام",
+            "Name_EN": "5263 - "
+        },
+        {
+            "Id": 5264,
+            "Name_AR": "5264 - تجارية نزوى / المدام",
+            "Name_EN": "5264 - "
+        },
+        {
+            "Id": 5378,
+            "Name_AR": "5378 - الرق / ضاحية سهيلة ",
+            "Name_EN": "5378 - Al Rek / Sohaila Suburb"
+        },
+        {
+            "Id": 5414,
+            "Name_AR": "5414 - مهراني/المدام",
+            "Name_EN": "5414 - Mahrani/Al Madam"
+        },
+        {
+            "Id": 5425,
+            "Name_AR": "5425 - مغصة / الذيد",
+            "Name_EN": "5425 - Al Magsha / Al Dhaid"
+        },
+        {
+            "Id": 5426,
+            "Name_AR": "5426 - اليفر 2/ الذيد",
+            "Name_EN": "5426 - Al Yafar 2 / Al Dhaid"
+        },
+        {
+            "Id": 5427,
+            "Name_AR": "5427 - اليفر 1/ الذيد",
+            "Name_EN": "5427 - Al Yafar 1 / Al Dhaid"
+        },
+        {
+            "Id": 5428,
+            "Name_AR": "5428 - المالحة / الذيد",
+            "Name_EN": "5428 - Al Malha / Al Dhaid"
+        },
+        {
+            "Id": 5429,
+            "Name_AR": "5429 - الخبيان/ الذيد",
+            "Name_EN": "5429 - Al Khabian / Al Dhaid"
+        },
+        {
+            "Id": 5430,
+            "Name_AR": "5430 - منطقة مغيدر / الذيد",
+            "Name_EN": "5430 - Megheder Area / Al Dhaid"
+        },
+        {
+            "Id": 5431,
+            "Name_AR": "5431 - البردي / الذيد",
+            "Name_EN": "5431 - Al Bardi / Al Dhaid"
+        },
+        {
+            "Id": 5432,
+            "Name_AR": "5432 - سيح المهب",
+            "Name_EN": "5432 - سيح المهب"
+        },
+        {
+            "Id": 5433,
+            "Name_AR": "5433 - سيح السداة",
+            "Name_EN": "5433 - سيح السداة"
+        },
+        {
+            "Id": 5436,
+            "Name_AR": "5436 - العويضد/ الذيد",
+            "Name_EN": "5436 - Lawedid / Al Dhaid"
+        },
+        {
+            "Id": 5438,
+            "Name_AR": "5438 - الرجيبة",
+            "Name_EN": "5438 - "
+        },
+        {
+            "Id": 5439,
+            "Name_AR": "5439 - المرقبات / الذيد",
+            "Name_EN": "5439 - Al Marqbat / Al Dhaid"
+        },
+        {
+            "Id": 5441,
+            "Name_AR": "5441 - سهيلة 3",
+            "Name_EN": "5441 - "
+        },
+        {
+            "Id": 5442,
+            "Name_AR": "5442 - الذيد - الخروس",
+            "Name_EN": "5442 - Al kharoush/Dhaid"
+        },
+        {
+            "Id": 5443,
+            "Name_AR": "5443 - الغشبة / الذيد",
+            "Name_EN": "5443 - al gabsha/Dhaid"
+        },
+        {
+            "Id": 5444,
+            "Name_AR": "5444 - حي الحصن 1 / الذيد",
+            "Name_EN": "5444 - HAY ALHUSN 1 / Al Dhaid"
+        },
+        {
+            "Id": 5445,
+            "Name_AR": "5445 - حي الحصن 2 / الذيد",
+            "Name_EN": "5445 - HAY ALHUSN 2 / Al Dhaid"
+        },
+        {
+            "Id": 5446,
+            "Name_AR": "5446 - أبوسدرة",
+            "Name_EN": "5446 - "
+        },
+        {
+            "Id": 5447,
+            "Name_AR": "5447 - الحصيه",
+            "Name_EN": "5447 - "
+        },
+        {
+            "Id": 5448,
+            "Name_AR": "5448 - طيبة 2",
+            "Name_EN": "5448 - "
+        },
+        {
+            "Id": 5463,
+            "Name_AR": "5463 - الرق التجارية/الذيد",
+            "Name_EN": "5463 - Al Rig Comercial"
+        }
+    ]

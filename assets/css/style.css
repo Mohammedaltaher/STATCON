@@ -831,6 +831,10 @@ section {
   float: right;
   font-style: normal;
 }
+.skills .progress .skill .valar {
+  float: left;
+  font-style: normal;
+}
 
 .skills .progress-bar-wrap {
   background: #e8edf5;
